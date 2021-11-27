@@ -1,0 +1,1 @@
+1. letakkan folder ini dalam derektori xampp/htdocs/TesSkill_Refactory
